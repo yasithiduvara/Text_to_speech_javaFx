@@ -1,0 +1,16 @@
+.body {
+    -fx-background-color: red;
+
+}
+
+.body .label {
+
+    -fx-text-fill: white;
+}
+
+.textToSpeechLabel{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+    -fx-text-fill: white;
+}
